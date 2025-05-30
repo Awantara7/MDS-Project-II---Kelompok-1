@@ -51,6 +51,13 @@ Ditujukan bagi **universitas, pemerintah, peneliti, dan masyarakat**, proyek ini
 
 ---
 
+## 🤖 Prosedure Analisis
+### Scraping
+### Preprocessing
+### MongoDB
+### Agregasi dan Visualisasi
+
+
 ## 🧠 Strategic Policy Insights
 
 | Insight Area                  | Potential Policy Use                                                                 |
