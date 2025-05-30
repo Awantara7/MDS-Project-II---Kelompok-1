@@ -5,36 +5,50 @@
 
 ---
 
-## 📚 Deskripsi Proyek
+## 📚✨ Deskripsi Proyek
 
 Proyek ini menyajikan **visualisasi interaktif** dan **analisis cerdas** terhadap data pemeringkatan universitas dunia dari *Times Higher Education (THE)*, mencakup **World University Rankings** dan **Impact Rankings** yang fokus pada kontribusi universitas terhadap **Sustainable Development Goals (SDGs)**.
 
-Ditujukan bagi **universitas, pemerintah, peneliti, dan masyarakat**, proyek ini bertujuan untuk:
+---
 
-- 🔍 Memahami pola dan tren peringkat universitas secara **global dan nasional**
-- 🌱 Menggali kontribusi universitas dalam **pembangunan berkelanjutan**
-- 🧠 Mengidentifikasi **faktor-faktor utama** yang memengaruhi peringkat
-- 🎯 Menyediakan insight strategis untuk kebijakan dan perencanaan akademik
+💡 Data mencakup:  
+**🌍 World University Rankings** & **🌱 Impact Rankings**,  
+yang menyoroti kontribusi universitas dalam mencapai **Sustainable Development Goals (SDGs)**.
 
 ---
 
-## 🎯 Fitur Utama
+🎯 **Ditujukan bagi:**  
 
-### 📊 Visualisasi Data Interaktif
-- **Distribusi Universitas per Negara**  
-  Peta dunia dan grafik batang interaktif berdasarkan jumlah universitas dan kontribusi terhadap SDGs.
-  
-- **Profil Universitas**  
-  Menampilkan indikator utama (Teaching, Research, Citation, International Outlook) dan SDG yang dicapai tiap institusi.
-  
-- **Tren Ranking Tahunan**  
-  Line chart performa universitas dari 2018 hingga 2025.
+🎓 Universitas  🏛️ Pemerintah  🔬 Peneliti  👥 Masyarakat Umum
 
-- **Analisis SDGs**  
-  Menunjukkan kontribusi dan pencapaian target SDGs dari universitas di berbagai wilayah.
+---
 
-- **Sorotan Universitas Indonesia**  
-  Analisis mendalam terhadap posisi dan performa universitas Indonesia dalam lanskap global.
+### 📌 Tujuan Proyek
+
+- 🔍 Memahami tren & pola peringkat universitas di level global dan nasional
+- 🌱 Menggali kontribusi institusi terhadap pembangunan berkelanjutan
+- 🧠 Mengidentifikasi faktor-faktor utama* yang memengaruhi peringkat akademik
+- 🗺️ Memberikan insight strategis untuk kebijakan & perencanaan pendidikan tinggi
+
+---
+
+## 🚀 Fitur Utama
+
+📊 **Visualisasi Data Interaktif**  
+Menyajikan data peringkat universitas dengan berbagai fitur unggulan berikut:
+
+---
+
+| 🔍 Fitur                        | ✨ Deskripsi Singkat                                                                 |
+|-------------------------------|--------------------------------------------------------------------------------------|
+| 🌐 **Distribusi Global**       | Peta dunia interaktif & grafik batang jumlah universitas serta kontribusi terhadap SDGs. |
+| 🏫 **Profil Universitas**      | Informasi lengkap indikator: Teaching, Research, Citation, International Outlook, SDGs.  |
+| 📈 **Tren Ranking Tahunan**    | Visualisasi performa universitas dari 2018 hingga 2025 dalam bentuk line chart.         |
+| ♻️ **Analisis SDGs**           | Menyoroti kontribusi kampus terhadap pencapaian tujuan pembangunan berkelanjutan.       |
+| 🇮🇩 **Sorotan Univ Indonesia**       | Fokus pada posisi & capaian universitas Indonesia dalam konteks global.                |
+
+---
+
 
 ---
 
@@ -53,6 +67,31 @@ Ditujukan bagi **universitas, pemerintah, peneliti, dan masyarakat**, proyek ini
 
 ## 🤖 Prosedure Analisis
 ### Scraping
+## 🕸️ Pengumpulan Data – Periode 2016–2025
+
+Proyek ini mengandalkan proses **web scraping otomatis menggunakan Selenium** untuk mengambil data pemeringkatan universitas dari situs resmi *Times Higher Education (THE)* dan sumber terkait lainnya.
+
+---
+
+### 🔧 Teknologi yang Digunakan
+
+- **Selenium**: Mengotomatiskan proses browsing dan pengambilan data.
+- **ChromeDriver**: Menjalankan browser Google Chrome secara headless.
+- **BeautifulSoup**: Membersihkan dan menstrukturkan elemen HTML.
+- **Pandas**: Menyimpan hasil scraping ke dalam bentuk dataframe dan file CSV.
+
+---
+
+### 🗓️ Cakupan Data
+
+Data yang dikumpulkan mencakup rentang waktu **2016 hingga 2025**, dengan elemen utama:
+- 🎓 Nama Universitas & Negara
+- 📊 Peringkat & Skor Total
+- 📚 Skor indikator: *Teaching*, *Research*, *Citation*, *International Outlook*
+- ♻️ Skor kontribusi terhadap *Sustainable Development Goals (SDGs)*
+
+---
+
 ### Preprocessing
 ### MongoDB
 ### Agregasi dan Visualisasi
