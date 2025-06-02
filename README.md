@@ -129,8 +129,7 @@ Menu **Universitas** menyajikan analisis mendalam terhadap performa masing-masin
 
 
 ### SDGs
-XXXXXXXXXXXXXXXXXXXX
-
+**Sustainable Development Goals (SDGs)** menyajikan analisis kinerja setiap universitas. Sub-menu **Top SDGs** menampilkan universitas terbaik dalam pencapaian SDGs, sementara **Distribusi Skor** menunjukkan variasi skor antar universitas. **Trend SDGs** memvisualisasikan tren perubahan skor SDGs per tahun, dan **Perbandingan** memvisualisasikan perbandingan skor antar universitas. Sub-menu **Kontribusi** mengukur tingkat kontribusi universitas terhadap SDGs, sedangkan **Skor per Tahun** menampilkan perkembangan skor tahunan. **Analisis Negara** memberikan wawasan mengenai pencapaian SDGs per negara, dan **Top Universitas** Berdasarkan Skor SDGs menyajikan universitas terbaik untuk tahun 2024. Dashboard ini memberikan gambaran lengkap mengenai kontribusi universitas terhadap SDGs secara global. Dengan data dan visualisasi tersebut, dashboard ini mempermudah pemangku kepentingan untuk menganalisis dan memahami kontribusi universitas terhadap pencapaian tujuan pembangunan berkelanjutan secara global.
 
 ![Untitled design (2)_page-0001](https://github.com/user-attachments/assets/97fe25ec-40f2-4435-9af6-5eb533949f21)
 
