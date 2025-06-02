@@ -115,6 +115,9 @@ Secara umum, tahap **agregasi** dalam proyek ini bertujuan untuk merangkum dan m
 Halaman **Beranda** menampilkan gambaran umum proyek visualisasi *University Rankings 2025* hasil kolaborasi Times Higher Education dan IPB University. Di bagian atas terdapat judul dan latar mahasiswa wisuda yang memperkuat kesan akademik. Tersedia ringkasan data berupa jumlah universitas (3311), negara (135), tahun rilis (2025), dan indikator SDGs (17). Empat dropdown interaktif disediakan untuk menjelaskan tren posisi universitas, faktor performa, peran SDGs, dan strategi peningkatan. Di bagian bawah, ditampilkan cuplikan visualisasi berupa peta sebaran universitas terbaik secara global dan analisis performa negara berdasarkan jumlah universitas dan skor rata-rata.
 ![Untitled design_page-0001](https://github.com/user-attachments/assets/91961cd7-d5bb-4515-ba90-38cb08e52085)
 
+### Negara
+Menu **Negara** pada dashboard *THE University Rankings Intelligence* menyajikan analisis performa universitas dari berbagai negara melalui beberapa sub-menu. Sub-menu **Jumlah Universitas** menampilkan negara dengan universitas terbanyak dalam pemeringkatan, sementara **Rata-rata Skor** menunjukkan kualitas rata-rata universitas di tiap negara. **Distribusi Skor** memperlihatkan variasi skor melalui boxplot, dan **Top Metrics** menampilkan negara terbaik berdasarkan metrik tertentu. Sub-menu **International vs Industry** menunjukkan hubungan antara kerja sama internasional dan pendapatan dari industri. **Peta Global** menggambarkan skor rata-rata per negara dalam bentuk peta dunia. Terakhir, **Cluster** mengelompokkan negara berdasarkan kemiripan performa menggunakan metode KMeans. Menu ini memberikan gambaran lengkap baik dari sisi kuantitas maupun kualitas pendidikan tinggi global.
+![Untitled design (1)_page-0001](https://github.com/user-attachments/assets/0caa6a7d-87b0-406f-b9a5-8f2c133e1fec)
 
 
 
