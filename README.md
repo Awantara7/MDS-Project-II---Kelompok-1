@@ -66,6 +66,12 @@ Menyajikan data peringkat universitas dengan berbagai fitur unggulan berikut:
 ---
 
 ## 🤖 Prosedure Analisis
+
+![AlurMDSProjekII](https://github.com/user-attachments/assets/1a150d5c-2955-44f2-8b00-109677a165fb)
+
+Proyek ini mencakup empat tahapan utama: **Scraping**, **Penggunaan MongoDB**, **Agregasi**, dan **Visualisasi**. Data peringkat universitas dikumpulkan secara otomatis melalui teknik scraping dari situs web dengan hasil berupa format tabular. Setelah itu, data dibersihkan dan ditransformasi ke format BSON agar dapat disimpan di **MongoDB**. Di dalam MongoDB, data dibuat menjadi database dan kemudian digunakan Python dalam proses **agregasi** dan **clustering** untuk menghasilkan informasi yang lebih terstruktur. Hasil akhir kemudian disajikan dalam bentuk **visualisasi** agar pola dan insight dari data dapat dipahami secara mudah dan informatif.
+
+
 ### Scraping
 ## 🕸️ Pengumpulan Data – Periode 2016–2025
 
@@ -93,8 +99,14 @@ Data yang dikumpulkan mencakup rentang waktu **2016 hingga 2025**, dengan elemen
 ---
 
 ### Preprocessing
+Tahap **preprocessing** dalam proyek ini berperan penting dalam menyiapkan data sebelum dimasukkan ke dalam database MongoDB. Proses ini dimulai dengan **menggabungkan beberapa file Excel** yang berisi data peringkat universitas dari berbagai sumber atau periode. Setelah penggabungan, dilakukan proses **pembersihan data** (data cleaning), seperti menghapus duplikasi, memperbaiki format kolom, serta memastikan konsistensi dan kelengkapan informasi. Setelah data rapi dan siap digunakan, langkah selanjutnya adalah **mentransformasikan format data Excel ke format BSON (Binary JSON)**. Format ini digunakan agar data dapat disimpan dan diproses secara efisien di dalam MongoDB, yang merupakan basis data berbasis dokumen. Dengan preprocessing yang baik, data menjadi lebih terstruktur, bersih, dan kompatibel untuk tahap-tahap berikutnya seperti agregasi dan visualisasi.
+
 ### MongoDB
+Pada tahap **MongoDB**, perannya difokuskan sebagai **media penyimpanan data** hasil preprocessing. Data yang telah dirapikan dan ditransformasikan ke dalam format BSON dimasukkan ke dalam **koleksi** di MongoDB untuk disimpan secara terstruktur. MongoDB tidak digunakan untuk proses analisis atau agregasi langsung, melainkan hanya sebagai **data warehouse** yang menyimpan dokumen-dokumen peringkat universitas.
+Setelah data tersimpan, proses **agregasi dilakukan di Python** dengan mengambil data kembali dari MongoDB menggunakan library seperti `pymongo`. Data yang di-*fetch* ke dalam Python dikonversi menjadi DataFrame, lalu dilakukan agregasi, clustering, dan analisis lainnya secara langsung di lingkungan Python. Dengan demikian, MongoDB berfungsi sebagai tempat penyimpanan terpusat, sementara seluruh proses analitik tetap dilakukan di Python.
+
 ### Agregasi dan Visualisasi
+Secara umum, tahap **agregasi** dalam proyek ini bertujuan untuk merangkum dan menyederhanakan data peringkat universitas yang telah diambil dari MongoDB. Proses ini mencakup pengelompokan data, perhitungan statistik seperti rata-rata atau jumlah, serta penyusunan data berdasarkan kategori tertentu seperti negara, wilayah, atau peringkat. Agregasi dilakukan di Python agar data lebih siap untuk dianalisis dan divisualisasikan. Selanjutnya, tahap **visualisasi** digunakan untuk menyajikan hasil agregasi dalam bentuk grafik yang informatif dan mudah dipahami. Beragam jenis visualisasi digunakan, seperti bar chart, pie chart, scatter plot, dan lain-lain, untuk menggambarkan pola, tren, dan perbandingan antaruniversitas atau antarindikator. Visualisasi ini membantu menyampaikan insight yang diperoleh dari data secara lebih efektif kepada pengguna atau pembaca.
 
 
 ## 🧠 Strategic Policy Insights
