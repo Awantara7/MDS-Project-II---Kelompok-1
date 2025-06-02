@@ -134,13 +134,16 @@ Menu **Sustainable Development Goals (SDGs)** menyajikan analisis kinerja setiap
 ![Untitled design (2)_page-0001](https://github.com/user-attachments/assets/97fe25ec-40f2-4435-9af6-5eb533949f21)
 
 ### Indonesia
-Menu Data Indonesia pada dashboard ini, terdapat beberapa sub-menu yang memberikan informasi mendalam mengenai kinerja universitas di Indonesia.
-Sub-menu Tren Skor Overall Universitas di Indonesia menampilkan grafik yang memperlihatkan perubahan skor universitas di Indonesia dari tahun ke tahun. Pengguna dapat memilih jumlah universitas yang ingin dianalisis dengan memilih dari slider yang tersedia. Grafik ini menunjukkan bagaimana skor universitas Indonesia berkembang, dengan garis yang menggambarkan pergerakan skor dari universitas-universitas terbaik di negara ini. Selain itu, sub-menu lainnya seperti Top 5 Universitas, Distribusi Rata-Rata SDGs, dan Radar Chart Interaktif memberikan gambaran mengenai pencapaian universitas berdasarkan SDGs serta memberikan analisis lebih lanjut mengenai perbandingan antar universitas. Dengan tampilan yang interaktif ini, dashboard memungkinkan pengguna untuk mengeksplorasi dan menganalisis tren perkembangan universitas di Indonesia secara lebih mendalam, serta memberikan wawasan tentang posisi universitas Indonesia dalam pemeringkatan global dan kontribusinya terhadap tujuan pembangunan berkelanjutan.
+Menu **Data Indonesia** pada dashboard ini, terdapat beberapa sub-menu yang memberikan informasi mendalam mengenai kinerja universitas di Indonesia.
+Sub-menu **Tren Skor Overall Universitas** di Indonesia menampilkan grafik yang memperlihatkan perubahan skor universitas di Indonesia dari tahun ke tahun. Pengguna dapat memilih jumlah universitas yang ingin dianalisis dengan memilih dari slider yang tersedia. Grafik ini menunjukkan bagaimana skor universitas Indonesia berkembang, dengan garis yang menggambarkan pergerakan skor dari universitas-universitas terbaik di negara ini. Selain itu, sub-menu lainnya seperti **Top 5 Universitas**, **Distribusi Rata-Rata SDGs**, dan **Radar Chart Interaktif** memberikan gambaran mengenai pencapaian universitas berdasarkan SDGs serta memberikan analisis lebih lanjut mengenai perbandingan antar universitas. Dengan tampilan yang interaktif ini, dashboard memungkinkan pengguna untuk mengeksplorasi dan menganalisis tren perkembangan universitas di Indonesia secara lebih mendalam, serta memberikan wawasan tentang posisi universitas Indonesia dalam pemeringkatan global dan kontribusinya terhadap tujuan pembangunan berkelanjutan.
+
+![deskripsi gambar](https://github.com/Awantara7/MDS-Project-II---Kelompok-1/blob/main/Gambar/Visualisasi%20screenshot/WhatsApp%20Image%202025-06-03%20at%201.47.23%20AM.jpeg)
 
 
 ### MongoDB
 Menu  **MongoDB** pada dashboard THE University Rankings Intelligence ini untuk menunjukan langkah-langkah kelompok kami dalam melakukan analisis data universitas menggunakan teknik agregasi MongoDB. Pengguna dapat menjalankan pipeline MongoDB untuk mengekstrak, mengelompokkan, dan memanipulasi data berdasarkan kriteria yang ditentukan, seperti skor universitas atau negara. 
 
+![deskripsi gambar](https://github.com/Awantara7/MDS-Project-II---Kelompok-1/blob/1cd5871ead8debfbfcd8abae6a338febda77080d/Gambar/Visualisasi%20screenshot/Screenshot%20(600).png))
 
 
 
