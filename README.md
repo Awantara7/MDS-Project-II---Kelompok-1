@@ -129,14 +129,19 @@ Menu **Universitas** menyajikan analisis mendalam terhadap performa masing-masin
 
 
 ### SDGs
-
+XXXXXXXXXXXXXXXXXXXX
 
 
 ![Untitled design (2)_page-0001](https://github.com/user-attachments/assets/97fe25ec-40f2-4435-9af6-5eb533949f21)
 
 ### Indonesia
+XXXXXXXXXXXXXXX
+
 
 ### MongoDB
+XXXXXXXXXXXXXXXXX
+
+
 
 
 
