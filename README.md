@@ -110,6 +110,9 @@ Setelah data tersimpan, proses **agregasi dilakukan di Python** dengan mengambil
 ### Agregasi dan Visualisasi
 Secara umum, tahap **agregasi** dalam proyek ini bertujuan untuk merangkum dan menyederhanakan data peringkat universitas yang telah diambil dari MongoDB. Proses ini mencakup pengelompokan data, perhitungan statistik seperti rata-rata atau jumlah, serta penyusunan data berdasarkan kategori tertentu seperti negara, wilayah, atau peringkat. Agregasi dilakukan di Python agar data lebih siap untuk dianalisis dan divisualisasikan. Selanjutnya, tahap **visualisasi** digunakan untuk menyajikan hasil agregasi dalam bentuk grafik yang informatif dan mudah dipahami. Beragam jenis visualisasi digunakan, seperti bar chart, pie chart, scatter plot, dan lain-lain, untuk menggambarkan pola, tren, dan perbandingan antaruniversitas atau antarindikator. Visualisasi ini membantu menyampaikan insight yang diperoleh dari data secara lebih efektif kepada pengguna atau pembaca.
 
+![Screenshot 2025-06-02 134954](https://github.com/user-attachments/assets/524c2dbc-5144-4a21-a445-9bdfc4401e2b) ![Screenshot 2025-06-02 135033](https://github.com/user-attachments/assets/47f7155e-be3f-4f6c-922d-ba0cdd00d934)
+
+
 
 ## 🧠 Strategic Policy Insights
 
