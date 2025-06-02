@@ -113,15 +113,25 @@ Secara umum, tahap **agregasi** dalam proyek ini bertujuan untuk merangkum dan m
 ## DASHBOARD VISUALISASI
 ### Beranda 
 Halaman **Beranda** menampilkan gambaran umum proyek visualisasi *University Rankings 2025* hasil kolaborasi Times Higher Education dan IPB University. Di bagian atas terdapat judul dan latar mahasiswa wisuda yang memperkuat kesan akademik. Tersedia ringkasan data berupa jumlah universitas (3311), negara (135), tahun rilis (2025), dan indikator SDGs (17). Empat dropdown interaktif disediakan untuk menjelaskan tren posisi universitas, faktor performa, peran SDGs, dan strategi peningkatan. Di bagian bawah, ditampilkan cuplikan visualisasi berupa peta sebaran universitas terbaik secara global dan analisis performa negara berdasarkan jumlah universitas dan skor rata-rata.
+
 ![Untitled design_page-0001](https://github.com/user-attachments/assets/91961cd7-d5bb-4515-ba90-38cb08e52085)
 
 ### Negara
-Menu **Negara** pada dashboard *THE University Rankings Intelligence* menyajikan analisis performa universitas dari berbagai negara melalui beberapa sub-menu. Sub-menu **Jumlah Universitas** menampilkan negara dengan universitas terbanyak dalam pemeringkatan, sementara **Rata-rata Skor** menunjukkan kualitas rata-rata universitas di tiap negara. **Distribusi Skor** memperlihatkan variasi skor melalui boxplot, dan **Top Metrics** menampilkan negara terbaik berdasarkan metrik tertentu. Sub-menu **International vs Industry** menunjukkan hubungan antara kerja sama internasional dan pendapatan dari industri. **Peta Global** menggambarkan skor rata-rata per negara dalam bentuk peta dunia. Terakhir, **Cluster** mengelompokkan negara berdasarkan kemiripan performa menggunakan metode KMeans. Menu ini memberikan gambaran lengkap baik dari sisi kuantitas maupun kualitas pendidikan tinggi global.
+Menu **Negara** pada dashboard *THE University Rankings Intelligence* menyajikan analisis performa universitas dari berbagai negara melalui beberapa sub-menu. Sub-menu **Jumlah Universitas** menampilkan negara dengan universitas terbanyak dalam pemeringkatan, sementara **Rata-rata Skor** menunjukkan kualitas rata-rata universitas di tiap negara. **Distribusi Skor** memperlihatkan variasi skor melalui boxplot, dan **Top Metrics** menampilkan negara terbaik berdasarkan metrik tertentu. Sub-menu **International vs Industry** menunjukkan hubungan antara kerja sama internasional dan pendapatan dari industri. **Peta Global** menggambarkan skor rata-rata per negara dalam bentuk peta dunia. Terakhir, **Cluster** mengelompokkan negara berdasarkan kemiripan performa menggunakan metode KMeans dan beberapa metode yangg lain. Menu ini memberikan gambaran lengkap baik dari sisi kuantitas maupun kualitas pendidikan tinggi global.
+
 ![Untitled design (1)_page-0001](https://github.com/user-attachments/assets/0caa6a7d-87b0-406f-b9a5-8f2c133e1fec)
 
 ### Universitas
+Menu **Universitas** menyajikan analisis mendalam terhadap performa masing-masing universitas dalam pemeringkatan. Sub-menu **Top Universitas** menampilkan daftar universitas dengan skor keseluruhan tertinggi, sementara **Radar Chart** memperlihatkan profil metrik universitas secara menyeluruh. **Trend Score** menunjukkan perkembangan skor universitas dari tahun ke tahun, dan **Top by Metric** menampilkan peringkat berdasarkan metrik tertentu. Sub-menu **Perbandingan** memungkinkan membandingkan dua universitas dari berbagai aspek. **Universitas Serupa** menampilkan institusi dengan karakteristik mirip, sedangkan **Top by SDGs** menunjukkan pencapaian universitas terhadap indikator pembangunan berkelanjutan. Terakhir, **Feature Importance** menjelaskan faktor-faktor yang paling memengaruhi skor universitas berdasarkan model machine learning.
+
+![Untitled design (3)_page-0001](https://github.com/user-attachments/assets/bfdc3413-5332-411b-b2a4-62560c05966d)
+
+
 
 ### SDGs
+
+
+
 ![Untitled design (2)_page-0001](https://github.com/user-attachments/assets/97fe25ec-40f2-4435-9af6-5eb533949f21)
 
 ### Indonesia
