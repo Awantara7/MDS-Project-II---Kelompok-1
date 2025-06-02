@@ -129,16 +129,17 @@ Menu **Universitas** menyajikan analisis mendalam terhadap performa masing-masin
 
 
 ### SDGs
-**Sustainable Development Goals (SDGs)** menyajikan analisis kinerja setiap universitas. Sub-menu **Top SDGs** menampilkan universitas terbaik dalam pencapaian SDGs, sementara **Distribusi Skor** menunjukkan variasi skor antar universitas. **Trend SDGs** memvisualisasikan tren perubahan skor SDGs per tahun, dan **Perbandingan** memvisualisasikan perbandingan skor antar universitas. Sub-menu **Kontribusi** mengukur tingkat kontribusi universitas terhadap SDGs, sedangkan **Skor per Tahun** menampilkan perkembangan skor tahunan. **Analisis Negara** memberikan wawasan mengenai pencapaian SDGs per negara, dan **Top Universitas** Berdasarkan Skor SDGs menyajikan universitas terbaik untuk tahun 2024. Dashboard ini memberikan gambaran lengkap mengenai kontribusi universitas terhadap SDGs secara global. Dengan data dan visualisasi tersebut, dashboard ini mempermudah pemangku kepentingan untuk menganalisis dan memahami kontribusi universitas terhadap pencapaian tujuan pembangunan berkelanjutan secara global.
+Menu **Sustainable Development Goals (SDGs)** menyajikan analisis kinerja setiap universitas. Sub-menu **Top SDGs** menampilkan universitas terbaik dalam pencapaian SDGs, sementara **Distribusi Skor** menunjukkan variasi skor antar universitas. **Trend SDGs** memvisualisasikan tren perubahan skor SDGs per tahun, dan **Perbandingan** memvisualisasikan perbandingan skor antar universitas. Sub-menu **Kontribusi** mengukur tingkat kontribusi universitas terhadap SDGs, sedangkan **Skor per Tahun** menampilkan perkembangan skor tahunan. **Analisis Negara** memberikan wawasan mengenai pencapaian SDGs per negara, dan **Top Universitas** Berdasarkan Skor SDGs menyajikan universitas terbaik untuk tahun 2024. Dashboard ini memberikan gambaran lengkap mengenai kontribusi universitas terhadap SDGs secara global. Dengan data dan visualisasi tersebut, dashboard ini mempermudah pemangku kepentingan untuk menganalisis dan memahami kontribusi universitas terhadap pencapaian tujuan pembangunan berkelanjutan secara global.
 
 ![Untitled design (2)_page-0001](https://github.com/user-attachments/assets/97fe25ec-40f2-4435-9af6-5eb533949f21)
 
 ### Indonesia
-XXXXXXXXXXXXXXX
+Menu Data Indonesia pada dashboard ini, terdapat beberapa sub-menu yang memberikan informasi mendalam mengenai kinerja universitas di Indonesia.
+Sub-menu Tren Skor Overall Universitas di Indonesia menampilkan grafik yang memperlihatkan perubahan skor universitas di Indonesia dari tahun ke tahun. Pengguna dapat memilih jumlah universitas yang ingin dianalisis dengan memilih dari slider yang tersedia. Grafik ini menunjukkan bagaimana skor universitas Indonesia berkembang, dengan garis yang menggambarkan pergerakan skor dari universitas-universitas terbaik di negara ini. Selain itu, sub-menu lainnya seperti Top 5 Universitas, Distribusi Rata-Rata SDGs, dan Radar Chart Interaktif memberikan gambaran mengenai pencapaian universitas berdasarkan SDGs serta memberikan analisis lebih lanjut mengenai perbandingan antar universitas. Dengan tampilan yang interaktif ini, dashboard memungkinkan pengguna untuk mengeksplorasi dan menganalisis tren perkembangan universitas di Indonesia secara lebih mendalam, serta memberikan wawasan tentang posisi universitas Indonesia dalam pemeringkatan global dan kontribusinya terhadap tujuan pembangunan berkelanjutan.
 
 
 ### MongoDB
-XXXXXXXXXXXXXXXXX
+Menu  **MongoDB** pada dashboard THE University Rankings Intelligence ini untuk menunjukan langkah-langkah kelompok kami dalam melakukan analisis data universitas menggunakan teknik agregasi MongoDB. Pengguna dapat menjalankan pipeline MongoDB untuk mengekstrak, mengelompokkan, dan memanipulasi data berdasarkan kriteria yang ditentukan, seperti skor universitas atau negara. 
 
 
 
