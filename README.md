@@ -73,6 +73,8 @@ Proyek ini mencakup empat tahapan utama: **Scraping**, **Penggunaan MongoDB**, *
 
 
 ### Scraping
+Scraping adalah proses otomatis untuk mengambil data dari sebuah situs web menggunakan program atau skrip tertentu. Dalam konteks proyek ini, scraping digunakan untuk mengambil data peringkat universitas yang tersedia dalam bentuk tabel di halaman web. Dengan scraping, data yang ditampilkan secara visual di situs web bisa diubah menjadi format terstruktur (seperti DataFrame atau file Excel) sehingga dapat digunakan untuk analisis lebih lanjut.
+
 ## 🕸️ Pengumpulan Data – Periode 2016–2025
 
 Proyek ini mengandalkan proses **web scraping otomatis menggunakan Selenium** untuk mengambil data pemeringkatan universitas dari situs resmi *Times Higher Education (THE)* dan sumber terkait lainnya.
