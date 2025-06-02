@@ -69,7 +69,7 @@ Menyajikan data peringkat universitas dengan berbagai fitur unggulan berikut:
 
 ![AlurMDSProjekII](https://github.com/user-attachments/assets/1a150d5c-2955-44f2-8b00-109677a165fb)
 
-Proyek ini mencakup empat tahapan utama: **Scraping**, **Penggunaan MongoDB**, **Agregasi**, dan **Visualisasi**. Data peringkat universitas dikumpulkan secara otomatis melalui teknik scraping dari situs web dengan hasil berupa format tabular. Setelah itu, data dibersihkan dan ditransformasi ke format BSON agar dapat disimpan di **MongoDB**. Di dalam MongoDB, data dibuat menjadi database dan kemudian digunakan Python dalam proses **agregasi** dan **clustering** untuk menghasilkan informasi yang lebih terstruktur. Hasil akhir kemudian disajikan dalam bentuk **visualisasi** agar pola dan insight dari data dapat dipahami secara mudah dan informatif.
+Proyek ini mencakup lima tahapan utama: **Scraping**, **Pre Processing Data**, **Penggunaan MongoDB**, **Agregasi**, dan **Visualisasi**. Data peringkat universitas dikumpulkan secara otomatis melalui teknik scraping dari situs web dengan hasil berupa format tabular. Setelah itu, data dibersihkan dan ditransformasi ke format BSON agar dapat disimpan di **MongoDB**. Di dalam MongoDB, data dibuat menjadi database dan kemudian digunakan Python dalam proses **agregasi** dan **clustering** untuk menghasilkan informasi yang lebih terstruktur. Hasil akhir kemudian disajikan dalam bentuk **visualisasi** agar pola dan insight dari data dapat dipahami secara mudah dan informatif.
 
 
 ### Scraping
