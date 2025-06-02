@@ -119,6 +119,10 @@ Halaman **Beranda** menampilkan gambaran umum proyek visualisasi *University Ran
 Menu **Negara** pada dashboard *THE University Rankings Intelligence* menyajikan analisis performa universitas dari berbagai negara melalui beberapa sub-menu. Sub-menu **Jumlah Universitas** menampilkan negara dengan universitas terbanyak dalam pemeringkatan, sementara **Rata-rata Skor** menunjukkan kualitas rata-rata universitas di tiap negara. **Distribusi Skor** memperlihatkan variasi skor melalui boxplot, dan **Top Metrics** menampilkan negara terbaik berdasarkan metrik tertentu. Sub-menu **International vs Industry** menunjukkan hubungan antara kerja sama internasional dan pendapatan dari industri. **Peta Global** menggambarkan skor rata-rata per negara dalam bentuk peta dunia. Terakhir, **Cluster** mengelompokkan negara berdasarkan kemiripan performa menggunakan metode KMeans. Menu ini memberikan gambaran lengkap baik dari sisi kuantitas maupun kualitas pendidikan tinggi global.
 ![Untitled design (1)_page-0001](https://github.com/user-attachments/assets/0caa6a7d-87b0-406f-b9a5-8f2c133e1fec)
 
+### Universitas
+
+### SDGs
+
 
 
 
