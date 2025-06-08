@@ -174,7 +174,7 @@ Menu  **MongoDB** pada dashboard THE University Rankings Intelligence ini untuk 
 
 ## 🌐 Dashboard Interaktif
 
-🔗 **[Demo Dashboard (Dummy Link)](https://streamlit.io/demo-the-rankings)**  
+🔗 **[Demo Dashboard (Dummy Link)]([https://streamlit.io/demo-the-rankings](https://worldrankdashboard.streamlit.app/))**  
 Dashboard Streamlit interaktif untuk eksplorasi data, analisis performa, dan tren SDGs.
 
 ---
