@@ -172,10 +172,12 @@ Menu  **MongoDB** pada dashboard THE University Rankings Intelligence ini untuk 
 
 ---
 
+
 ## 🌐 Dashboard Interaktif
 
-🔗 **[Demo Dashboard](https://worldrankdashboard.streamlit.app/)**  
-Dashboard interaktif berbasis Streamlit yang dirancang untuk eksplorasi data, analisis performa, dan visualisasi tren terkait indikator SDGs (Sustainable Development Goals).
+🔗 **[Demo Dashboard](https://worldrankdashboard.streamlit.app/)** 
+Dashboard Streamlit interaktif untuk eksplorasi data, analisis performa, dan tren SDGs.
+
 ---
 
 📁 Struktur Proyek
