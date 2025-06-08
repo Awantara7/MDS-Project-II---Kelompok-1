@@ -174,20 +174,15 @@ Menu  **MongoDB** pada dashboard THE University Rankings Intelligence ini untuk 
 
 ## 🌐 Dashboard Interaktif
 
-🔗 **[Demo Dashboard (Dummy Link)]([https://streamlit.io/demo-the-rankings](https://worldrankdashboard.streamlit.app/))**  
-Dashboard Streamlit interaktif untuk eksplorasi data, analisis performa, dan tren SDGs.
-
+🔗 **[Demo Dashboard](https://worldrankdashboard.streamlit.app/)**  
+Dashboard interaktif berbasis Streamlit yang dirancang untuk eksplorasi data, analisis performa, dan visualisasi tren terkait indikator SDGs (Sustainable Development Goals).
 ---
 
-## 📁 Struktur Proyek
-
-├── /data # Dataset THE & data tambahan (World Bank, HDI, dll)
-├── /notebooks # Notebook eksplorasi & machine learning
-├── /scripts # Kode preprocessing dan analisis
-├── /reports # Visualisasi, screenshot, dan dokumentasi
-├── /app # Streamlit dashboard
-├── requirements.txt # Daftar dependensi
-└── README.md # Dokumentasi utama
+📁 Struktur Proyek
+├── /Code       # Berisi script dan modul program utama
+├── /Gambar     # Menyimpan visualisasi, screenshot, atau media gambar lainnya
+├── /data       # Dataset utama & data tambahan (misal: World Bank, HDI, dsb)
+├── README.md   # Dokumentasi utama proyek
 
 
 ---
