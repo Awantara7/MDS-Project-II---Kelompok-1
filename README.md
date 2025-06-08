@@ -1,4 +1,4 @@
-# MDS-Project-II---Kelompok-1
+
 # 🧠 THE University Rankings Intelligence  
 ### Visualizing Global Academic Performance & Sustainability Commitments  
 > _“Data-informed education for a sustainable future.”_
